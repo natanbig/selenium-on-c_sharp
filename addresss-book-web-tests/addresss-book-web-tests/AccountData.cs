@@ -8,6 +8,7 @@ namespace addresss_book_web_tests
 {
     class AccountData
     {
+        
         private string userName;
         private string password;
 
